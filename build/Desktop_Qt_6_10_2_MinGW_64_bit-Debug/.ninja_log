@@ -1,0 +1,69 @@
+# ninja log v6
+61	440	8161258020040424	OOP3-3p1_autogen/timestamp	ed772eefea8edda3
+1567	6784	8161212378676637	CMakeFiles/OOP3-3p1.dir/main.cpp.obj	e24aa05b9f510331
+61	440	8161258020040424	OOP3-3p1_autogen/mocs_compilation.cpp	ed772eefea8edda3
+61	440	8161258020040424	C:/Users/Home PC/Documents/OOP3-3p1/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/OOP3-3p1_autogen/timestamp	ed772eefea8edda3
+5854	6364	8161258077968026	OOP3-3p1.exe	1ac7ffc4491df8d1
+61	440	8161258020040424	C:/Users/Home PC/Documents/OOP3-3p1/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/OOP3-3p1_autogen/mocs_compilation.cpp	ed772eefea8edda3
+442	5854	8161258023853789	CMakeFiles/OOP3-3p1.dir/mainwindow.cpp.obj	ff607121c97797e3
+1557	6760	8161212378566610	CMakeFiles/OOP3-3p1.dir/OOP3-3p1_autogen/mocs_compilation.cpp.obj	8ad1e780067fe4b5
+509	5126	8161257718070496	CMakeFiles/OOP3-3p1.dir/CShape.cpp.obj	d2bff43a3fff45d4
+454	5200	8161258023974831	CMakeFiles/OOP3-3p1.dir/Storage.cpp.obj	4677748589fac06c
+66	2033	8161266490477926	OOP3-3p1_autogen/timestamp	ed772eefea8edda3
+66	2033	8161266490477926	OOP3-3p1_autogen/mocs_compilation.cpp	ed772eefea8edda3
+66	2033	8161266490477926	C:/Users/Home PC/Documents/OOP3-3p1/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/OOP3-3p1_autogen/timestamp	ed772eefea8edda3
+66	2033	8161266490477926	C:/Users/Home PC/Documents/OOP3-3p1/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/OOP3-3p1_autogen/mocs_compilation.cpp	ed772eefea8edda3
+2047	8843	8161266493051742	CMakeFiles/OOP3-3p1.dir/main.cpp.obj	e24aa05b9f510331
+2073	8940	8161266493328556	CMakeFiles/OOP3-3p1.dir/PaintArea.cpp.obj	161814a53f5ea53d
+2036	9167	8161266492946228	CMakeFiles/OOP3-3p1.dir/OOP3-3p1_autogen/mocs_compilation.cpp.obj	8ad1e780067fe4b5
+59	548	8161267471572232	OOP3-3p1_autogen/timestamp	ed772eefea8edda3
+59	548	8161267471572232	OOP3-3p1_autogen/mocs_compilation.cpp	ed772eefea8edda3
+59	548	8161267471572232	C:/Users/Home PC/Documents/OOP3-3p1/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/OOP3-3p1_autogen/timestamp	ed772eefea8edda3
+59	548	8161267471572232	C:/Users/Home PC/Documents/OOP3-3p1/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/OOP3-3p1_autogen/mocs_compilation.cpp	ed772eefea8edda3
+550	6029	8161267476487604	CMakeFiles/OOP3-3p1.dir/mainwindow.cpp.obj	ff607121c97797e3
+6029	6640	8161267531279198	OOP3-3p1.exe	2fee0dde618a32d5
+20	417	8161271392032215	OOP3-3p1_autogen/timestamp	ed772eefea8edda3
+20	417	8161271392032215	OOP3-3p1_autogen/mocs_compilation.cpp	ed772eefea8edda3
+20	417	8161271392032215	C:/Users/Home PC/Documents/OOP3-3p1/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/OOP3-3p1_autogen/timestamp	ed772eefea8edda3
+20	417	8161271392032215	C:/Users/Home PC/Documents/OOP3-3p1/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/OOP3-3p1_autogen/mocs_compilation.cpp	ed772eefea8edda3
+418	4913	8161271396010751	CMakeFiles/OOP3-3p1.dir/mainwindow.cpp.obj	ff607121c97797e3
+4913	5395	8161271440966374	OOP3-3p1.exe	2fee0dde618a32d5
+73	1777	8161276407995182	OOP3-3p1_autogen/timestamp	ed772eefea8edda3
+73	1777	8161276407995182	OOP3-3p1_autogen/mocs_compilation.cpp	ed772eefea8edda3
+73	1777	8161276407995182	C:/Users/Home PC/Documents/OOP3-3p1/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/OOP3-3p1_autogen/timestamp	ed772eefea8edda3
+73	1777	8161276407995182	C:/Users/Home PC/Documents/OOP3-3p1/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/OOP3-3p1_autogen/mocs_compilation.cpp	ed772eefea8edda3
+1793	9193	8161276410586136	CMakeFiles/OOP3-3p1.dir/main.cpp.obj	e24aa05b9f510331
+1779	9231	8161276410447429	CMakeFiles/OOP3-3p1.dir/OOP3-3p1_autogen/mocs_compilation.cpp.obj	8ad1e780067fe4b5
+1806	9233	8161276410708760	CMakeFiles/OOP3-3p1.dir/mainwindow.cpp.obj	ff607121c97797e3
+61	1617	8161276881875576	OOP3-3p1_autogen/timestamp	ed772eefea8edda3
+61	1617	8161276881875576	OOP3-3p1_autogen/mocs_compilation.cpp	ed772eefea8edda3
+61	1617	8161276881875576	C:/Users/Home PC/Documents/OOP3-3p1/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/OOP3-3p1_autogen/timestamp	ed772eefea8edda3
+61	1617	8161276881875576	C:/Users/Home PC/Documents/OOP3-3p1/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/OOP3-3p1_autogen/mocs_compilation.cpp	ed772eefea8edda3
+1634	8097	8161276883980719	CMakeFiles/OOP3-3p1.dir/main.cpp.obj	e24aa05b9f510331
+1661	8257	8161276884248146	CMakeFiles/OOP3-3p1.dir/PaintArea.cpp.obj	161814a53f5ea53d
+1620	8486	8161276883842769	CMakeFiles/OOP3-3p1.dir/OOP3-3p1_autogen/mocs_compilation.cpp.obj	8ad1e780067fe4b5
+1647	8693	8161276884118160	CMakeFiles/OOP3-3p1.dir/mainwindow.cpp.obj	ff607121c97797e3
+8693	9681	8161276954572438	OOP3-3p1.exe	2fee0dde618a32d5
+25	1682	8161690118621038	OOP3-3p1_autogen/timestamp	ed772eefea8edda3
+25	1682	8161690118621038	OOP3-3p1_autogen/mocs_compilation.cpp	ed772eefea8edda3
+25	1682	8161690118621038	C:/Users/Home PC/Documents/OOP3-3p1/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/OOP3-3p1_autogen/timestamp	ed772eefea8edda3
+25	1682	8161690118621038	C:/Users/Home PC/Documents/OOP3-3p1/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/OOP3-3p1_autogen/mocs_compilation.cpp	ed772eefea8edda3
+1743	6955	8161690121562142	CMakeFiles/OOP3-3p1.dir/Storage.cpp.obj	4677748589fac06c
+1731	6966	8161690121437074	CMakeFiles/OOP3-3p1.dir/CShape.cpp.obj	d2bff43a3fff45d4
+1755	8164	8161690121688964	CMakeFiles/OOP3-3p1.dir/PaintArea.cpp.obj	161814a53f5ea53d
+1700	8173	8161690121131982	CMakeFiles/OOP3-3p1.dir/main.cpp.obj	e24aa05b9f510331
+1685	8315	8161690120979987	CMakeFiles/OOP3-3p1.dir/OOP3-3p1_autogen/mocs_compilation.cpp.obj	8ad1e780067fe4b5
+1716	8634	8161690121283601	CMakeFiles/OOP3-3p1.dir/mainwindow.cpp.obj	ff607121c97797e3
+8635	9380	8161690190478580	OOP3-3p1.exe	2fee0dde618a32d5
+97	555	8161694898439239	OOP3-3p1_autogen/timestamp	ed772eefea8edda3
+97	555	8161694898439239	OOP3-3p1_autogen/mocs_compilation.cpp	ed772eefea8edda3
+97	555	8161694898439239	C:/Users/Home PC/Documents/OOP3-3p1/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/OOP3-3p1_autogen/timestamp	ed772eefea8edda3
+97	555	8161694898439239	C:/Users/Home PC/Documents/OOP3-3p1/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/OOP3-3p1_autogen/mocs_compilation.cpp	ed772eefea8edda3
+557	12154	8161694903032702	CMakeFiles/OOP3-3p1.dir/mainwindow.cpp.obj	ff607121c97797e3
+12154	13106	8161695019003379	OOP3-3p1.exe	2fee0dde618a32d5
+47	413	8161695804067146	OOP3-3p1_autogen/timestamp	ed772eefea8edda3
+47	413	8161695804067146	OOP3-3p1_autogen/mocs_compilation.cpp	ed772eefea8edda3
+47	413	8161695804067146	C:/Users/Home PC/Documents/OOP3-3p1/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/OOP3-3p1_autogen/timestamp	ed772eefea8edda3
+47	413	8161695804067146	C:/Users/Home PC/Documents/OOP3-3p1/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/OOP3-3p1_autogen/mocs_compilation.cpp	ed772eefea8edda3
+414	5254	8161695807748985	CMakeFiles/OOP3-3p1.dir/mainwindow.cpp.obj	ff607121c97797e3
+5254	5756	8161695856143575	OOP3-3p1.exe	2fee0dde618a32d5
